@@ -18,7 +18,7 @@ const menu = [
   {
     id: 3,
     title: 'godzilla milkshake',
-    category: 'shakes',
+    category: 'dinner',
     price: 6.99,
     img: './images/item-3.jpeg',
     desc: `ombucha chillwave fanny pack 3 wolf moon street art photo booth before they sold out organic viral.`,
@@ -42,7 +42,7 @@ const menu = [
   {
     id: 6,
     title: 'oreo dream',
-    category: 'shakes',
+    category: 'Snacks',
     price: 18.99,
     img: './images/item-6.jpeg',
     desc: `Portland chicharrones ethical edison bulb, palo santo craft beer chia heirloom iPhone everyday`,
